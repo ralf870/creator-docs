@@ -3,9 +3,7 @@ type: class
 category: Building
 memory_category: PhysicsParts
 summary: |
-  Models are container objects, meaning they group objects together. They are
-  best used to hold collections of `Class.BasePart|BaseParts` and have a number
-  of functions that extend their functionality.
+  Models are con
 description: |
   Models are container objects, meaning they group objects together. They are
   best used to hold collections of `Class.BasePart|BaseParts` and have a number
